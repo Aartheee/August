@@ -2,4 +2,8 @@ I love my earth
 Sun gives light
 I love my earth
 Sun gives light
+<<<<<<< HEAD
 I love moon
+=======
+I love stars
+>>>>>>> BranchC
